@@ -1,3 +1,3 @@
 # FIAN
 
-## This repository contains a built Flarum mirror
+## This repository contains a pre-built Flarum mirror
